@@ -1,4 +1,4 @@
 package in.abhisingh.sfgpetclinic.model;
 
-public class Owner {
+public class Owner extends Person{
 }
