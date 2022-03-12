@@ -10,8 +10,8 @@
     <artifactId>pet-clinic-data</artifactId>
 
     <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
 <!--        Below property is for creating thin jar and not fat jar. A jar containing just regular classes.-->
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
     </properties>
